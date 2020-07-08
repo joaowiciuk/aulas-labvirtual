@@ -10,4 +10,8 @@ Colaborador: Prof Dr. Omar Chura Vilcanqui*
 
 Organização: João Paulo Silva Wiciuk*
 
+Organização: Paolo dos Anjos Mourão*
+
+Organização: Jose Esteban Barrientos*
+
 *Universidade Federal do Acre - UFAC
