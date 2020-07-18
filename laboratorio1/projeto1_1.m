@@ -1,8 +1,7 @@
 
 %% sin(x)
-clc; clear;
-close all
-x = -10:0.01:10-0.01;
+clc; clear; close all                          %  limpar a tela, limpar a memoria, fechar todas as janelas
+x = -10:0.01:10-0.01;                   %  cria um vetor 'x' com valores de -10 ate 10 com passso de 0.01
 y = sin(x);
 plot(x,y,'b-'); hold on
 

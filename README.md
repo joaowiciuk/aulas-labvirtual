@@ -1,4 +1,4 @@
-# LabVirtual
+# LabVirtual (Extensão)
 
 ## Sobre
 Repositório com os código das aulas do projeto de extensão Laboratório Virtual: Laboratório de Comunicações Visuais
@@ -65,4 +65,4 @@ Organização: Paolo dos Anjos Mourão*
 
 Organização: Jose Esteban Barrientos*
 
-*Universidade Federal do Acre - UFAC
+* Universidade Federal do Acre - UFAC
