@@ -11,6 +11,7 @@ n = 5;
         end
     end
 %end
+%Teste 
 
 
 % Os dez menores números perfeitos são os seguintes:
