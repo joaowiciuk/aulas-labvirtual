@@ -1,3 +1,6 @@
+%Octave: necessário instalar e carregar pacote 'symbolic'
+%pkg load symbolic %Octave
+
 %% Autor: eu
 % projeto 1 ....
 

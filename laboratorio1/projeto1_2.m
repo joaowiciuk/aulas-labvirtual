@@ -1,3 +1,5 @@
+%Octave: necessário pacotes 'signal', 'symbolic'
+%pkg load signal symbolic ltfat
 
 %% sin(x)
 clc; clear;
@@ -78,7 +80,8 @@ clc; clear;
 close all
 Ts=0.01;
 x = -10:Ts:10-Ts;
-g=triangularPulse(x);
+g=triangularPulse(x); %Matlab
+%g=tripuls(x); %Octave
 [minhafft]=grafica_fft(Ts,g,'r');
 g_reconstruido = ifft(minhafft);
 figure;plot(x,g);hold on; plot(x, g_reconstruido, '.r')
@@ -97,7 +100,8 @@ clc; clear;
 close all
 Ts=0.01;
 x = -10:Ts:10-Ts;
-g=rectangularPulse(x);
+g=rectangularPulse(x); %Matlab
+%g=rectpuls(x); %Octave
 [minhafft]=grafica_fft(Ts,g,'r');
 g_reconstruido = ifft(minhafft);
 figure;plot(x,g);hold on; plot(x, g_reconstruido, '.r')

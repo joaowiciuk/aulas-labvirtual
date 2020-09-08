@@ -1,3 +1,5 @@
+%Octave: necessário pacote 'signal'
+%pkg load signal
 
 %% sin(x)
 clc; clear; close all                          %  limpar a tela, limpar a memoria, fechar todas as janelas
@@ -58,7 +60,8 @@ plot(x(1:end-1),derivada*100,'r-')
 clc; clear;
 close all
 x = -10:0.01:10-0.01;
-y = triangularPulse(x);
+y = triangularPulse(x); %Matlab
+%y = tripuls(x); %Octave
 plot(x,y,'b-'); hold on
 
 for index=1:length(y)
@@ -72,7 +75,8 @@ plot(x(1:end-1),derivada*100,'r-')
 clc; clear;
 close all
 x = -10:0.01:10-0.01;
-y = rectangularPulse(x);
+y = rectangularPulse(x); %Matlab
+%y = rectpuls(x); %Octave
 plot(x,y,'b-'); hold on
 
 for index=1:length(y)
