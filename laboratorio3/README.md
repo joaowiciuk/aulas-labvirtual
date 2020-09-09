@@ -22,5 +22,8 @@
   * Ler imagem [imread()](https://www.mathworks.com/help/matlab/ref/imread.html?s_tid=srchtitle)
   * Filtrar imagem [imfilter()](https://www.mathworks.com/help/images/ref/imfilter.html?s_tid=srchtitle)
   * Visualizar imagem [imshow()](https://www.mathworks.com/help/images/ref/imshow.html?s_tid=srchtitle)
+  * Ajustar intensidade [imadjust()](https://www.mathworks.com/help/images/ref/imadjust.html?s_tid=srchtitle)
+  * Histograma de imagem [imhist()](https://www.mathworks.com/help/images/ref/imhist.html?s_tid=srchtitle)
+  * Complemento (negativo) de imagem [imcomplement()](https://www.mathworks.com/help/images/ref/imcomplement.html?s_tid=srchtitle)
 ### Funções do usuário
   * [Declaração de funções](https://www.mathworks.com/help/matlab/ref/function.html?s_tid=srchtitle)
