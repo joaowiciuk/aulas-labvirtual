@@ -3,4 +3,24 @@
 * Transformações de intensidade e filtragem espacial.
 * Processamento de histograma
 * Filtros espaciais de suavização e aguçamento
-* Realce espacial e outros.
+* Realce espacial
+
+## Conhecimentos aplicados
+  * Transformações espaciais
+  * Técnicas de transformação de intensidade
+  * Manipulação de histograma de imagem
+  * Construção de filtros espaciais
+  * Convolução e correlação espaciais
+  
+## Principais funções utilizadas neste laboratório
+### Funções matriciais
+  * Preencher com a unidade [ones()](https://www.mathworks.com/help/matlab/ref/ones.html?s_tid=srchtitle)
+  * Preencher com zeros [zeros()](https://www.mathworks.com/help/matlab/ref/zeros.html?s_tid=srchtitle)
+  * Somar [sum()](https://www.mathworks.com/help/matlab/ref/sum.html?s_tid=srchtitle)
+
+### Funções de manipulação de imagem
+  * Ler imagem [imread()](https://www.mathworks.com/help/matlab/ref/imread.html?s_tid=srchtitle)
+  * Filtrar imagem [imfilter()](https://www.mathworks.com/help/images/ref/imfilter.html?s_tid=srchtitle)
+  * Visualizar imagem [imshow()](https://www.mathworks.com/help/images/ref/imshow.html?s_tid=srchtitle)
+### Funções do usuário
+  * [Declaração de funções](https://www.mathworks.com/help/matlab/ref/function.html?s_tid=srchtitle)
