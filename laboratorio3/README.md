@@ -37,4 +37,4 @@
   * Complemento (negativo) de imagem - *imcomplement()* - [MATLAB](https://www.mathworks.com/help/images/ref/imcomplement.html?s_tid=srchtitle), [Octave](https://octave.sourceforge.io/image/function/imcomplement.html)
   * Gráfico de conjunto de dados discretos - *stem()* - [MATLAB](https://www.mathworks.com/help/matlab/ref/stem.html?s_tid=srchtitle), [Octave](https://octave.sourceforge.io/octave/function/stem.html)
 ### Funções do usuário
-  * [Declaração de funções](https://www.mathworks.com/help/matlab/ref/function.html?s_tid=srchtitle)
+  * Declaração de funções - [MATLAB](https://www.mathworks.com/help/matlab/ref/function.html?s_tid=srchtitle), [Octave](https://octave.org/doc/v4.2.1/Defining-Functions.html)
