@@ -7,7 +7,7 @@
 % mamário no negativo da imagem neste caso particular.
 
 close all; clc;clear % limpar a memoria e fechar figuras
-pkg load image %% octave
+% pkg load image %% octave
 
 %% leitura da imagen
 I = imread('Fig0304(a)(breast_digital_Xray).bmp');

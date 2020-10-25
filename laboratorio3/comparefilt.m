@@ -1,4 +1,5 @@
 clear;clc
+% pkg load image %% octave
 
 w = 1/9*ones(3,3);
 f = double (imread('lena.bmp'));

@@ -2,7 +2,7 @@
 close all; clc;clear
 I = imread('lena.bmp');
 
-imhist(I);
+J = imhist(I);
 
 stem([0:256-1],J)
 

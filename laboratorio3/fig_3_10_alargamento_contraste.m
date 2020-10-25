@@ -64,8 +64,9 @@ g = zeros(size(f));
 for x = 0:255
   g((f == x)) = y(x+1);   
 end
-  
+  g = mat2gray(g);
 figure; imshow(g,[])
+
 
 
 
