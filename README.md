@@ -57,11 +57,15 @@ As aulas estão organizadas em suas devidas subpastas juntamente com códigos e 
 ## Equipe de Trabalho
 Coordenador: Prof. Dr. Roger Fredy Larico Chavez*
 
-Colaborador: Prof Dr. Omar Chura Vilcanqui*
+Colaborador: Prof. Dr. Omar Chura Vilcanqui*
 
 Organização: João Paulo Silva Wiciuk*
 
 Organização: Paolo dos Anjos Mourão*
+
+Organização: Paulo Chaves dos Santos Júnior*
+
+Organização: Gabriel Marques da Silva Abreu*
 
 Organização: Jose Esteban Barrientos*
 
